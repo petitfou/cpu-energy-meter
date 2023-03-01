@@ -1,3 +1,9 @@
+cpu-energy-meter (1.2-1ubuntu1) jammy; urgency=medium
+
+  * Jammy release
+
+ -- Hector CAO <hector.cao@canonical.com>  Thu, 02 Mar 2023 02:37:50 +0100
+
 cpu-energy-meter (1.2-1) bionic; urgency=medium
 
   * New upstream version.
